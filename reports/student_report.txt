@@ -1,2 +1,6 @@
 student report for ../data/semester_marks.csv
 total number of students:        6
+student report for ../data/semester_marks.csv
+total number of students:        6
+Number of students in CSE DEPT: 3
+Number of students in EE DEPT: 2
