@@ -1,0 +1,2 @@
+student report for ../data/semester_marks.csv
+total number of students:        6
